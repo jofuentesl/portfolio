@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Web corporativa',
+    description: "Web corporativa para la empresa Repro Disseny desarrollada bajo el cms Pressero. Programa diseñado para potenciar las w2p",
+      image: '/images/repro.jpg',
+      tags: ['Pressero', 'Jquery', 'Bootstrap'],
+    source: 'https://reprodisseny.com',
+    visit: 'https://reprodisseny.com',
     id: 0,
   },
   {
