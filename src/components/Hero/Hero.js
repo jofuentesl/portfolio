@@ -12,9 +12,9 @@ const Hero = (props) => (
         mi página personal
       </SectionTitle>
       <SectionText>
-        Lasdfadsfaasdfasñldfjasñlfdñasl asñfjasñlfjlasfj asfjñlasdfkjañl asdflkas´dfljasl´dfja sasdfajs´ldfjas´ldfjasldfjaslfjasfdasdflasjd´l
+        Desarrollador front-end con más de 10 años de experiencia ubicado en la ciudad de Barcelona
       </SectionText>
-      <Button onClick={()=> window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={()=> window.location = 'https://google.com'}>Saber más</Button>
     </LeftSection>
   </Section>
 );
